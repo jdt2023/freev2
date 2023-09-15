@@ -7,7 +7,7 @@ https://worker-holy-cherry-0ccb.8703.workers.dev/sub/mci.ircf.space,my.domain.me
 
 
 
-https://worker-holy-cherry-0ccb.8703.workers.dev/sub/mci.ircf.space
+
 
 
 
