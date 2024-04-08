@@ -1,0 +1,36 @@
+-url https://speed.cloudflare.com/__down?bytes=200000000
+# 由 Cloudflare 官方提供，200 MB，优点是支持自定义大小（末尾数字），缺点是有 "每日总流量限制"...
+
+
+-url https://download.parallels.com/desktop/v15/15.1.5-47309/ParallelsDesktop-15.1.5-47309.dmg
+-url https://download.parallels.com/desktop/v17/17.1.1-51537/ParallelsDesktop-17.1.1-51537.dmg
+# 由 Parallels 提供，200 MB、300 MB
+
+
+
+-url https://cloudflare.cdn.openbsd.org/pub/OpenBSD/7.3/src.tar.gz
+-url https://cloudflare.cdn.openbsd.org/pub/OpenBSD/7.3/i386/base73.tgz
+-url https://cloudflare.cdn.openbsd.org/pub/OpenBSD/7.3/alpha/install73.iso
+# 由 Openbsd 提供，200 MB
+
+
+-url https://cdn.cloudflare.steamstatic.com/steam/apps/256843155/movie_max.mp4
+# 由 Steam 提供，200 MB
+
+
+
+-url https://speedtest.galgamer.eu.org/200m.png
+# 由 @OPPO9008 提供，200 MB
+
+
+-url https://speedtest.poorhub.pro/cf.7z
+# 由 @little-twain 提供，469 MB
+
+
+-url https://download-proxy.zhaofengying.com/api/download?url=任意文件地址
+# 由 @hronro 提供，文件大小取决于指定的目标文件，在末尾的 ?url= 后面加上任意文件 URL（要求：可直接下载且大于 200MB）
+
+# 例如，这样就能当下载测速地址用了（这个文件是 200 MB） ：
+-url https://download-proxy.zhaofengying.com/api/download?url=https://testfileorg.netwet.net/500MB-CZIPtestfile.org.zip
+
+
