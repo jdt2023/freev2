@@ -1,3 +1,11 @@
+
+自己建的有域名的节点
+
+
+https://zhaoyang.onflashdrive.app/53f0e34b-6e76-45a5-8aa7-9180041b4db8
+
+
+
 原生节点在github上的
 
 https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
