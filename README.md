@@ -1,3 +1,6 @@
+https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
+
+
 
 身份生成器
 
