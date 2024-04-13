@@ -1,3 +1,5 @@
+原生节点在github上的
+
 https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
 
 
@@ -22,7 +24,7 @@ https://jdt1991.pages.dev/1c67ba2f-deab-4090-ab9e-a81805e17ab3
 https://sshocean.com/
 
 
-
+美国节点
 
 https://ircfspace.github.io/location/
 
