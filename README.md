@@ -1,6 +1,10 @@
 自建节点
 
-https://49f1.8703.workers.dev/686e79a6-53ad-48b0-a28b-5cba454ef9a7
+
+
+https://ef656099.1991djt.pages.dev/72a03dec-85bc-4150-8619-0d7adf13a42b
+
+
 
 
 自己建的有域名的节点
