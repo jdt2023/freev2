@@ -8,7 +8,7 @@ https://ef656099.1991djt.pages.dev/72a03dec-85bc-4150-8619-0d7adf13a42b
 
 
 自己建的有域名的节点
-
+https://dyue.zhaoyang.onflashdrive.app/auto
 
 https://zhaoyang.onflashdrive.app/53f0e34b-6e76-45a5-8aa7-9180041b4db8
 
