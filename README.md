@@ -1,4 +1,10 @@
 自建节点
+
+https://1e1f.8703.workers.dev/trojan
+
+https://tyu-cbl.pages.dev/trojan
+
+
 https://0510-9qi.pages.dev/jte6688
 
 
