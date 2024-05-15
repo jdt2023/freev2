@@ -1,4 +1,11 @@
 自建节点
+VPN
+https://appscross.com/Sharetools/Tools%20Share/Hiddify/-/freevpn/oblivion/oblivion-android-2-zhCN-byLaoE.apk
+
+
+https://appscross.com/Sharetools/Tools%20Share/Hiddify/-/freevpn/oblivion/oblivion-android-2-zhCN-byLaoE.apk
+
+
 
 https://1e1f.8703.workers.dev/trojan
 
