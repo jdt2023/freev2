@@ -1,5 +1,15 @@
 自建节点
 自己的机器人
+
+https://gq86p6-3000.csb.app
+
+
+
+https://www.coze.com/store/bot/7367620411691008005?bid=6ci9gbabk2007&panel=1
+
+
+
+
 https://gq86p6-3000.csb.app/#dialog=%22%22
 
 
