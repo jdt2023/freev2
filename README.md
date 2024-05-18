@@ -1,4 +1,8 @@
 自建节点
+自己的机器人
+https://gq86p6-3000.csb.app/#dialog=%22%22
+
+
 VPN
 https://appscross.com/Sharetools/Tools%20Share/Hiddify/-/freevpn/oblivion/oblivion-android-2-zhCN-byLaoE.apk
 
