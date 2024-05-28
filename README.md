@@ -1,4 +1,9 @@
 自建节点
+
+
+https://jdtjlq.8703.workers.dev/866853eb-5293-4f09-bf00-e13eb237c655
+
+
 自己的机器人
 
 https://copilot.microsoft.com/
